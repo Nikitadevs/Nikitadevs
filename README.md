@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita
 - 👀 I’m interested in building Websites and mannage them 
-- 🌱 I’m currently learning CS
+- 🌱 Triyng to learn more and more coding languages 
 - 💞️ I’m looking to collaborate on making Websites
 - 📫 How to reach me Discord nikit9442
 - 😄 Pronouns: he/him
