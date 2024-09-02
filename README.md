@@ -24,9 +24,3 @@ https://nikitadev.netlify.app/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikitadevs&icon=7&color=1)](https://visitcount.itsvg.in)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nikitadevs&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nikitadevs&icon=7&color=1)](https://visitcount.itsvg.in)
