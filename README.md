@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div style="text-align:center; background: linear-gradient(to bottom, #1e1e2f, #302b63); padding: 20px; border-radius: 15px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps GIF" style="width: 70%; max-height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 15px;">
-  <h1 style="color: #F39C12; font-family: 'Arial', sans-serif; font-size: 36px; margin: 0;">Hello 🌎, I'm NikitaDevs</h1>
+  <h1 style="color: #F39C12; font-family: 'Arial', sans-serif; font-size: 36px; margin: 0;">Hello 🌎, I'm Nikita</h1>
   <p style="color: #FFF; font-size: 18px; max-width: 600px; margin: auto;">Passionate about creating scalable DevOps solutions, I bridge the gap between technology and impactful real-world applications.</p>
 </div>
 
@@ -92,7 +92,7 @@
 <div id="connect" style="background-color:#f4f4f4; padding: 20px; border-radius: 10px;">
   <h2 style="text-align: center; color: #2980B9;">🌐 Let's Connect</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-    <a href="https://twitter.com/NikitaDevs" target="blank"><i class="devicon-twitter-original" style="font-size:40px;"></i></a>
-    <a href="https://www.linkedin.com/in/NikitaDevs/" target="blank"><i class="devicon-linkedin-plain colored" style="font-size:40px;"></i></a>
+    <a href="https://twitter.com" target="blank"><i class="devicon-twitter-original" style="font-size:40px;"></i></a>
+    <a href="https://www.linkedin.com/" target="blank"><i class="devicon-linkedin-plain colored" style="font-size:40px;"></i></a>
   </div>
 </div>
