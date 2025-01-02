@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Expanding the knowledge about DevOps**
 
-- 👨‍💻 All of my projects are available at [ikitadev.netlify.app](nikitadev.netlify.app)
+- 👨‍💻 All of my projects are available at [nikitadev.netlify.app](nikitadev.netlify.app)
 
 - 💬 Ask me about **react and backend in general**
 
