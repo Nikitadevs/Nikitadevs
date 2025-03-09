@@ -1,38 +1,38 @@
 <!-- HEADER -->
 <div style="text-align:center; background: linear-gradient(to bottom, #1e1e2f, #302b63); padding: 20px; border-radius: 15px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps GIF" style="width: 70%; max-height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 15px;">
+  <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Web Dev GIF" style="width: 70%; max-height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 15px;">
   <h1 style="color: #F39C12; font-family: 'Arial', sans-serif; font-size: 36px; margin: 0;">Hello 🌎, I'm Nikita</h1>
-  <p style="color: #FFF; font-size: 18px; max-width: 600px; margin: auto;">Passionate about creating scalable DevOps solutions, I bridge the gap between technology and impactful real-world applications.</p>
+  <p style="color: #FFF; font-size: 18px; max-width: 600px; margin: auto;">Passionate about building interactive, responsive, and beautiful web applications that connect users to great experiences.</p>
 </div>
 
 <!-- CURRENTLY WORKING ON -->
 <div style="background-color:#f4f4f4; padding: 20px; border-radius: 10px;">
-  <h2 style="text-align: center; color: #E74C3C;">🔭 Currently Working On</h2>
+  <h2 style="text-align: center; color: #E74C3C;">🔭 Currently Building</h2>
   <ul style="list-style-type: none; padding: 0; font-size: 16px; max-width: 800px; margin: auto;">
-    <li>✨ Upgrading Java applications from JDK 8 to 21</li>
-    <li>🌱 Exploring advanced Kubernetes orchestration and CI/CD pipelines</li>
-    <li>💬 Mastering containerized solutions using Docker and Terraform</li>
+    <li>✨ Responsive Single Page Applications with React</li>
+    <li>🌱 Exploring Progressive Web Apps (PWAs) and mobile-first design</li>
+    <li>💬 Integrating modern back-end APIs with Node.js and Express</li>
   </ul>
 </div>
 
-<!-- DEVOPS TOOLKIT -->
+<!-- WEB DEV TOOLKIT -->
 <div style="background-color:#1e1e2f; color: white; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h2 style="text-align: center; color: #F39C12;">🛠️ DevOps Toolkit</h2>
-  <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: auto;">A comprehensive toolkit designed to streamline DevOps workflows, including CI/CD pipelines, monitoring, infrastructure automation, and more.</p>
+  <h2 style="text-align: center; color: #F39C12;">🛠️ Web Dev Toolkit</h2>
+  <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: auto;">A curated toolkit to streamline modern web development, covering design, front-end frameworks, responsive layouts, and back-end integrations.</p>
   <h3 style="text-align: center; color: #E74C3C;">Key Objectives:</h3>
   <ul style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: auto;">
-    <li>⚡ Automate repetitive tasks</li>
-    <li>⚡ Provide reusable templates for infrastructure</li>
-    <li>⚡ Integrate with CI/CD workflows</li>
-    <li>⚡ Monitor and scale applications seamlessly</li>
+    <li>⚡ Craft clean, accessible user interfaces</li>
+    <li>⚡ Build reusable components and modules</li>
+    <li>⚡ Seamlessly integrate APIs and back-end services</li>
+    <li>⚡ Optimize performance across devices</li>
   </ul>
   <h3 style="text-align: center; color: #E74C3C;">Features:</h3>
   <ul style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: auto;">
-    <li>🔹 Infrastructure as Code (IaC): Terraform and Ansible scripts</li>
-    <li>🔹 CI/CD Pipelines: Jenkins, GitHub Actions templates</li>
-    <li>🔹 Monitoring: Prometheus, Grafana, ELK stack</li>
-    <li>🔹 Containerization: Docker and Kubernetes templates</li>
-    <li>🔹 Automation: Custom scripts for daily DevOps tasks</li>
+    <li>🔹 HTML5 & CSS3: Modern layouts and semantic structure</li>
+    <li>🔹 JavaScript: ES6+ features and frameworks like React</li>
+    <li>🔹 Responsive Design: Media queries and mobile-first strategies</li>
+    <li>🔹 API Integration: RESTful services with Node.js and Express</li>
+    <li>🔹 Testing & Optimization: Tools for performance and accessibility</li>
   </ul>
 </div>
 
@@ -40,14 +40,14 @@
 <div id="projects" style="background-color:#f4f4f4; padding: 20px; border-radius: 10px;">
   <h2 style="text-align: center; color: #E74C3C;">🚀 Explore My Projects</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <a href="https://github.com/NikitaDevs/Project1" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Cloud_Dashboard-000000?style=for-the-badge&logo=github&logoColor=white" alt="Cloud Dashboard" />
+    <a href="https://github.com/NikitaDevs/WebProject1" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Responsive_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Responsive Portfolio" />
     </a>
-    <a href="https://github.com/NikitaDevs/Project2" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Optimized_CI%2FCD-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Optimized CI/CD" />
+    <a href="https://github.com/NikitaDevs/WebProject2" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Interactive_React_App-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Interactive React App" />
     </a>
-    <a href="https://github.com/NikitaDevs/Project3" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Cloud_Deployment-00c6ff?style=for-the-badge&logo=github&logoColor=white" alt="Cloud Deployment" />
+    <a href="https://github.com/NikitaDevs/WebProject3" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/PWA_Experience-00c6ff?style=for-the-badge&logo=github&logoColor=white" alt="PWA Experience" />
     </a>
   </div>
 </div>
@@ -56,16 +56,16 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,python,nodejs,dotnet"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,vue"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Design & Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,adobeXD,git"/></td>
     </tr>
 </table>
 
@@ -96,3 +96,4 @@
     <a href="https://www.linkedin.com/" target="blank"><i class="devicon-linkedin-plain colored" style="font-size:40px;"></i></a>
   </div>
 </div>
+
